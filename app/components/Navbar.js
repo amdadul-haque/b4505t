@@ -48,7 +48,7 @@ const Navbar = () => {
           <li><a href="#home" className="text-base font-medium pb-1 border-b-2 border-transparent hover:border-brand-main hover:text-brand-main transition-all duration-300">Home</a></li>
           <li><a href="#about" className="text-base font-medium pb-1 border-b-2 border-transparent hover:border-brand-main hover:text-brand-main transition-all duration-300">About</a></li>
           <li><a href="#features" className="text-base font-medium pb-1 border-b-2 border-transparent hover:border-brand-main hover:text-brand-main transition-all duration-300">Features</a></li>
-          <li><a href="#specifications" className="text-base font-medium pb-1 border-b-2 border-transparent hover:border-brand-main hover:text-brand-main transition-all duration-300">Specifications</a></li>
+          <li><a href="#specifications" className="text-base font-medium pb-1 border-b-2 border-transparent hover:border-brand-main hover:text-brand-main transition-all duration-300">Prices & Specifications</a></li>
 
         </ul>
       </div>

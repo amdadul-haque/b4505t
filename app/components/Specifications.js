@@ -63,8 +63,8 @@ const Specifications = () => {
 
 
   return (
-    <div className='py-10' id="specifications">
-      <SectionTitle title='Specifications' />
+    <div className='py-10 pt-20' id="specifications">
+      <SectionTitle title='Prices & Specifications' />
       <div className='w-full grid grid-cols-2 md:grid-cols-4'>
         {
           specificationsData.map((specification, index) => (
